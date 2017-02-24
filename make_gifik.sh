@@ -20,123 +20,6 @@ function check_status {
 }
 
 function parse_args_and_do_what_i_want {  
-  #vid_url=https://www.youtube.com/watch?v=WI42op04vvY
-  #vid=$p/vids/merbake1
-  #out=$p/treasures/banaeleape_revloop.gif
-  #start=00:40:38
-  #length=3
-  #do_reverse=1
-  #first_frames_to_del=2
-  #last_frames_to_del=3
-  #last_frame_repeat=3
-
-  #vid_url=https://www.youtube.com/watch?v=WI42op04vvY
-  #vid=$p/vids/merbake1
-  #out=$p/treasures/banaeleape_chelava.gif
-  #start=00:40:38
-  #length=5
-  #do_reverse=0
-  #first_frames_to_del=2
-  #last_frames_to_del=3
-  #last_frame_repeat=3
-
-
-  #vid_url=https://www.youtube.com/watch?v=WI42op04vvY
-  #vid=$p/vids/merbake1
-  #out=$p/treasures/du_hartageghm_eakes.gif
-  #start=0:29:28
-  #length=6
-  #do_reverse=0
-  #first_frames_to_del=12
-  #last_frames_to_del=0
-  #last_frame_repeat=0
-  
-
-
-  #vid_url=https://www.youtube.com/watch?v=WI42op04vvY
-  #vid=$p/vids/merbake1
-  #out=$p/treasures/asatryanbocqaylel.gif
-  #start=0:51:46
-  #length=6
-  #first_frames_to_del=8
-  #last_frames_to_del=13
-  #last_frame_repeat=3
-  
-
-  #vid_url=https://www.youtube.com/watch?v=WI42op04vvY
-  #vid=$p/vids/merbake1
-  #out=$p/treasures/asatryantashtush.gif
-  #start=0:51:55
-  #length=2
-  #last_frame_repeat=1	
-  #do_reverse=1	
-  #last_frames_to_del=40
-  #first_frames_to_del=8
-
-  
-  #vid_url=https://www.youtube.com/watch?v=WI42op04vvY
-  #vid=$p/vids/merbake1
-  #out=$p/treasures/asatryantashtush.gif
-  #start=0:51:55
-  #length=2
-  #last_frame_repeat=1	
-  #do_reverse=1	
-  #last_frames_to_del=40
-  #first_frames_to_del=8
-
-
-  #vid_url=https://www.youtube.com/watch?v=wiUaMYQf1kU
-  #vid=$p/vids/erjmexanika
-  #out=$p/treasures/azatgasparianachkq_revloop.gif
-  #start=01:11:33
-  #length=2
-  #do_reverse=1
-
-
-  #vid_url=https://www.youtube.com/watch?v=l2K232EyNYo
-  #vid=$p/vids/hrdeh
-  #out=$p/treasures/gnanq_hacutenq2.gif
-  #start=01:02:30  
-  #length=7
-  #first_frames_to_del=30
-  #last_frames_to_del=17
-  #resize=1
-  #no_opt=1
-
-  #vid_url=https://www.youtube.com/watch?v=4L1HcNEwr7U
-  #vid=$p/vids/menqmersarere
-  #out=$p/treasures/heyeeey.gif
-  #start=00:45:27  
-  #length=2
-  #do_reverse=1
-  #first_frames_to_del=25
-  #last_frames_to_del=9
-  #crop=152,8+156x111
-  #resize=1
-
-  #vid_url=https://www.youtube.com/watch?v=4L1HcNEwr7U
-  #vid=$p/vids/menqmersarere
-  #out=$p/treasures/hndzvorner.gif
-  #start=00:19:47  
-  #length=4
-  #loop=0
-  #do_reverse=1
-  #first_frames_to_del=5
-  #last_frames_to_del=3
-  #crop=152,8+156x111
-  #resize=1
-  #no_opt=1
-
-
-  #vid=$p/vids/emma.mov
-  #out=$p/treasures/emma_hayacq.gif
-  #start=00:00:08  
-  #length=2
-  #do_reverse=1
-  #first_frames_to_del=3
-  #last_frames_to_del=3
-  #resize=1
-  #no_opt=1
 
 # #   vid_url=https://www.youtube.com/watch?v=fIQuc1Pv2jA
 # #   vid=$p/vids/yurikdzya.mp4
@@ -151,33 +34,19 @@ function parse_args_and_do_what_i_want {
 # #   #resize=1
 # #   no_opt=1
 
- 
-#   vid_url=https://www.youtube.com/watch?v=9Iwp6Z1AlD4
-#   vid=$p/vids/koracmolorac.mkv
-#   out=$p/treasures/shatshatshatvatergicher
-#   start=00:23:31
-#   length=9
-#   loop=1
-#   #do_reverse=1
-#   #first_frames_to_del=2
-#   last_frames_to_del=8
-#   #last_frame_repeat=3
-#   no_opt=1
-#   #resize=1
 
-
-  vid_url=https://www.youtube.com/watch?v=0q8bzfB7Q9A
-  vid=$p/vids/k_vchonmerela.mkv
-  out=$p/treasures/cxvac_hayko.gif
-  start=00:02:59
-  length=3
+  vid_url=https://www.youtube.com/watch?v=JBEfpVqBJuE
+  vid=$p/vids/paxirkamamusnacir.mkv
+  out=$p/treasures/qyarttaxi.gif
+  start=01:36:07
+  length=5
   loop=1
   do_reverse=1
-  first_frames_to_del=10
-  last_frames_to_del=4
+  #first_frames_to_del=10
+  #last_frames_to_del=5
   #last_frame_repeat=3
   no_opt=1
-  #resize=1
+  resize=1
 
 
   init
@@ -187,54 +56,25 @@ function parse_args_and_do_what_i_want {
 
 
 
-#function fixme {
-  #vid_url=`echo $url| cut -d'#' -f1`
-  #tmp=`echo $url| cut -d'#' -f2`
-  #start_t=`echo $tmp| cut -d'=' -f2`
-  #d=3600
-
-  #start_hh=`expr $start_t / $d`
-  #if [ "$start_hh" -le "10" ]; then
-    #$start_hh = "0$start_hh"
-  #fi
-  
-  #p=10
-  #start_mm=`expr $start_t / $d`
-  #if [ "$start_mm" -eq "$p" ]; then
-    #echo "aaa"
-    #start_mm="0$start_mm"
-  #fi
-
-  #if [ "$start_mm" -ge "60" ]; then
-    #start_hh=`expr $start_mm / $d`
-    #if [ "$start_hh" -le "10" ]; then
-      #$start_hh = "0$start_hh"
-    #fi
-  #fi
-
-  #1:15:46
-
-  #$(($start_t/$d))
-  #echo "$start_t secs"
-  #cho "-----"
-  #echo "$start_ss s"
-  #echo "$start_mm m"
-  #echo "$start_hh h"
-
-#}
 
 function init {
+  wmark="@Ցակլադնո http://libxelar.so"
+  wmarkfont="DejaVu-Serif-Book"
+  #wmarkoverlay="5:H-h+22"
+  wmarkoverlay="10:10"
+  wmarkfsize="18"
+
   dbg=0
   gifdelay=6
-  framerate=20
-  osize=1920x1080
-  #osize=640x480
+  framerate=15
+  #osize=1920x1080
   #osize=1024×576 
+  osize=1280x720
   #osize=640x480
   #osize=480x320
   #osize=320x240
-  #colors=32
-  colors=256
+  colors=32
+  #colors=256
 
   log=$p/giffer.log
   workdir=~/.giffer
@@ -264,7 +104,7 @@ function get_vid {
 }
 
 #FIXME this bullshit!
-#made very quickly , need to think about some soultion :)
+#made very quickly , need to think about some elegant soultion :)
 function reverse_gifs {
    
     gifcount=`ls | wc -l`
@@ -462,9 +302,7 @@ function addwatermark {
   #echo `pwd`
   #exit
 
-  wmark="@cakladno  http://libxelar.so"
-  wmarkoverlay="5:H-h+22"
-  
+ 
   #title="   ապե apeeemihattelevizzr@miacreq eli"
   #titleoverlay="-10:-22"
  
@@ -482,7 +320,7 @@ function addwatermark {
 
 
   echo -ne "creating watermark2-----"
-  convert -size 560x85 xc:transparent -font Palatino-Bold -pointsize 12 -fill white -draw "text 20,55 '$wmark'" test2.png
+  convert -size 560x85 xc:transparent -pointsize $wmarkfsize -font $wmarkfont -fill white -draw "text 20,55 '$wmark'" test2.png
   check_status 
 
   
